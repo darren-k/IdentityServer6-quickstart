@@ -142,3 +142,5 @@ $RECYCLE.BIN/
 **/bin/
 **/obj/
 
+# Ignore all node_modules directories
+**/node_modules/
